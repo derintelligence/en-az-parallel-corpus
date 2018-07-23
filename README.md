@@ -1,7 +1,7 @@
 # en-az-parallel-corpus
 
 ```
-$ curl https://s3.us-east-2.amazonaws.com/derintelligence/dataset/data.tar.gz | tar xvf -
+$ curl https://s3.us-east-2.amazonaws.com/derintelligence/dataset/data.tar.gz | tar xzvf -
 ```
 
 Corpus Statistics
