@@ -1,6 +1,6 @@
 # en-az-parallel-corpus
 
-The directory contains an information about a parallel corpus for English-Azeri and Azeri-English translation task.
+The directory contains an information about a parallel corpus for English-Azeri and Azeri-English translation task. The main goal of introducing the data is to help engineers and developers to create a universal language model (fine-tuned models) for Azerbaijan language. 
 
 Download the train data along with the validation and test sets:
 
