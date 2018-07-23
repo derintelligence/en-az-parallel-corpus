@@ -1,6 +1,6 @@
 # en-az-parallel-corpus
 
---Azərbaycanca açıqlama aşağıdadır--
+<b>Description in English</b>:
 
 The directory contains an information about a parallel corpus for English-Azerbaijani and Azerbaijani-English translation task. The main goal of introducing the data is to help engineers and developers to create a universal language model (fine-tuned models) for Azerbaijani language. 
 
@@ -22,9 +22,9 @@ Corpus Statistics
 | test.en        |        500 |   9,032 |         2,941 |
 | test.az        |        500 |   6,905 |         3,815 |
 
+<br><br>
 
-
-Azərbaycanca:
+<b>Azərbaycanca açıqlama<b>:
 
 Bu qovluq İngiliscə - Azərbaycanca və Azərbaycanca - İngiliscə tərcümə məsələsinə əsasən hazırlanmış paralel toplu haqqında məlumatdan ibarətdir. Proyektin əsas məqsədi mühəndislərə və proqramçılara Azərbaycan dili üçün universal dil modeli(yaxşı tənzimlənmiş) yaratmaqda dəstək olmaqdır.
 
