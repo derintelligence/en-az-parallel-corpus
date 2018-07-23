@@ -1,6 +1,6 @@
 # en-az-parallel-corpus
 
-Azərbaycanca açıqlama aşağıdadır
+--Azərbaycanca açıqlama aşağıdadır--
 
 The directory contains an information about a parallel corpus for English-Azerbaijani and Azerbaijani-English translation task. The main goal of introducing the data is to help engineers and developers to create a universal language model (fine-tuned models) for Azerbaijani language. 
 
@@ -21,6 +21,8 @@ Corpus Statistics
 | dev.az         |        500 |   6,852 |         3,832 |
 | test.en        |        500 |   9,032 |         2,941 |
 | test.az        |        500 |   6,905 |         3,815 |
+
+
 
 Azərbaycanca:
 
