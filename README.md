@@ -24,7 +24,7 @@ Corpus Statistics
 
 <br><br>
 
-<b>Azərbaycanca açıqlama<b>:
+<b>Azərbaycanca açıqlama</b>:
 
 Bu qovluq İngiliscə - Azərbaycanca və Azərbaycanca - İngiliscə tərcümə məsələsinə əsasən hazırlanmış paralel toplu haqqında məlumatdan ibarətdir. Proyektin əsas məqsədi mühəndislərə və proqramçılara Azərbaycan dili üçün universal dil modeli(yaxşı tənzimlənmiş) yaratmaqda dəstək olmaqdır.
 
