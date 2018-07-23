@@ -1,5 +1,6 @@
 # en-az-parallel-corpus
 
+https://s3.us-east-2.amazonaws.com/derintelligence/data.tar.gz
 
 Corpus Statistics
 -----------------
