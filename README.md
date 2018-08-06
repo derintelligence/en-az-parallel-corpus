@@ -2,7 +2,7 @@
 
 The directory contains an information about a parallel corpus for English-Azerbaijani and Azerbaijani-English translation tasks. The main goal of introducing the data is to help engineers and developers to create a universal language model (fine-tuned models) for Azerbaijani language. 
 
-*Read this in other languages: [Azerbaycan dili](README.az.md)*
+*Read this in other languages: [Azərbaycan dili](README.az.md)*
 
 Download the train data along with the validation and test sets:
 
