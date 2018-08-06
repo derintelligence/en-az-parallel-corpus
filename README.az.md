@@ -2,7 +2,7 @@
 
 Bu qovluq İngiliscə - Azərbaycanca və Azərbaycanca - İngiliscə tərcümə məsələsinə əsasən hazırlanmış paralel toplu haqqında məlumatdan ibarətdir. Proyektin əsas məqsədi mühəndislərə və proqramçılara Azərbaycan dili üçün universal dil modeli yaratmaqda dəstək olmaqdır.
 
-*Digər dillər: [English](README.md), [Azerbaijan](README.az.md)*
+*Digər dillər: [English](README.md)*
 
 Öyrənmə datasını təsdiqləmə və test datası ilə birlikdə aşağıdakı keçidi istifadə edərək yükləyin:
 
