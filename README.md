@@ -10,7 +10,7 @@ Download the train data along with the validation and test sets:
 $ curl https://s3.us-east-2.amazonaws.com/derintelligence/dataset/data.tar.gz | tar xzvf -
 ```
 
-In case of some problems with availability of dataset, twitter: @rkarrimov, @mammadhajili
+In case of some problems with availability of the dataset, twitter: @rkarrimov, @mammadhajili
 
 Corpus Statistics
 -----------------
