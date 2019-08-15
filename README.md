@@ -4,7 +4,7 @@ The directory contains an information about a parallel corpus for English-Azerba
 
 *Read this in other languages: [Azərbaycan dili](README.az.md)*
 
-The corpus can be obtained by writing to `rasul.karimov@skoltech.ru` or `mammad.hajili@epfl.ch`. Just state in your letter how the obtained information will be used. Whether it is a private research or public research. Also, it will be really helpful to give more information about the organization you are working in.
+The corpus can be obtained by writing to `rasul.karimov@skoltech.ru` or `mammad.hajili@epfl.ch`. Just state in your letter how the obtained information will be used. Whether it is a private or public research. Also, it will be really helpful to give more information about the organization you are working in.
 
 In case of some problems with availability of the dataset, twitter: @rkarrimov, @mammadhajili
 
