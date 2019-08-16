@@ -4,11 +4,8 @@ Bu qovluq İngiliscə - Azərbaycanca və Azərbaycanca - İngiliscə tərcümə
 
 *Digər dillər: [English](README.md)*
 
-Öyrənmə datasını təsdiqləmə və test datası ilə birlikdə aşağıdakı keçidi istifadə edərək yükləyin:
+Toplunu əldə etmək üçün rasul.karimov@skoltech.ru və ya mammad.hajili@epfl.ch adresindən bizimlə əlaqə saxlaya bilərsiniz. Məktubunuzda toplunun nə üçün istifadə edəcəyinizi bildirə bilərsiniz (Məsələn: özəl yoxsa açıq elmi araşdırma üçün). Həmçinin hansı təşkilatda işlədiyiniz ilə bağlı məlumatı da qeyd etsəniz bizim üçün çox faydalı olar.
 
-```
-$ curl https://s3.us-east-2.amazonaws.com/derintelligence/dataset/data.tar.gz | tar xzvf -
-```
 Toplunun statistikası
 -----------------
 
